@@ -1,0 +1,1 @@
+{"name":"Local: A Balanced Problemset","url":"d:\\Codeforces\\A Balanced Problemset.cpp","tests":[{"id":1707061207815,"input":"3\n10 3\n5 5\n420 69","output":"2\n1\n6"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Codeforces\\A Balanced Problemset.cpp","group":"local","local":true}

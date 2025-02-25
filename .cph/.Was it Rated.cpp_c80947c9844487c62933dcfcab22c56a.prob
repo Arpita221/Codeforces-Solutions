@@ -1,0 +1,1 @@
+{"name":"Local: Was it Rated","url":"d:\\Codeforces\\Was it Rated.cpp","tests":[{"id":1711984021862,"input":"10\nis\nit\nstated\nsubmit\nac\naccepted\nwa\nwronganswer\ntle\ntimelimitexceeded","output":"NO\nYES\nNO\nYES\nNO\nNO\nNO\nNO\nNO\nYES"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Codeforces\\Was it Rated.cpp","group":"local","local":true}

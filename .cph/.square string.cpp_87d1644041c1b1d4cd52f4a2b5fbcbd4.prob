@@ -1,0 +1,1 @@
+{"name":"Local: square string","url":"d:\\Codeforces\\square string.cpp","tests":[{"id":1713191898223,"input":"10\na\naa\naaa\naaaa\nabab\nabcabc\nabacaba\nxxyy\nxyyx\nxyxy\n","output":"NO\nYES\nNO\nYES\nYES\nYES\nNO\nNO\nNO\nYES\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Codeforces\\square string.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: Farmer John's Challenge","url":"d:\\Codeforces\\Farmer John's Challenge.cpp","tests":[{"id":1711810917336,"input":"3\n2 2\n3 1\n3 2","output":"1 1\n69420 69 420\n-1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Codeforces\\Farmer John's Challenge.cpp","group":"local","local":true}
